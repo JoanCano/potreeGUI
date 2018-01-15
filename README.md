@@ -32,7 +32,7 @@ Donde:
 
 Una vez se ejecute nos debe aparecer una ventana como la siguiente, la cual indica que el proceso se está realizando.
 
-![CMD](../../images/imgPotree/resultado.png)
+![CMD](joancano.io/images/imgPotree/resultado.png)
 
 Cuando se haya realizado el proceso, es muy importante que los archivos generados se encuentren dentro de ```C:\xampp\htdocs``` para poder visualizar la nube de puntos en el navegador:
 
@@ -48,11 +48,11 @@ Al ejecutar potreGUI nos aparecen las siguientes ventanas:
 2. El archivo LAS que queremos transformar
 3. El directorio donde queremos guardarlo (C:\xampp\htdocs)
 
-![nombre](../../images/imgPotree/1.PNG)
+![nombrejoancano.io/images/imgPotree/1.PNG)
 
-![LAS](../../images/imgPotree/2.png)
+![LASjoancano.io/images/imgPotree/2.png)
 
-![Guardar](../../images/imgPotree/3.png)
+![Guardar](joancano.io/images/imgPotree/3.png)
 
 ## Ejemplo práctico con una nube de puntos LiDAR del PNOA
 
@@ -60,4 +60,4 @@ Para mostrar el resultado que puede obtenerse con una nube de puntos LAS, se han
 
 Aquí tenéis el resultado. Suerte!
 
-![CMD](../../images/imgPotree/resultado2.PNG)
+![CMD](joancano.io/images/imgPotree/resultado2.PNG)
